@@ -1,0 +1,6 @@
+This project is barely coded i did it for fun and has bugs in !invite and !inventory and uhm idk what else.
+
+Discord.js V12
+Node.js V20
+
+Will probably continue it later on idk, have fun with this code base it's simple :p
